@@ -5,3 +5,4 @@ https://tec1group.github.io/wicked-tec1/index.html
 
 https://github.com/jhlagado/wicked-tec1
 
+try it https://tec1group.github.io/wicked-tec1/index.html
